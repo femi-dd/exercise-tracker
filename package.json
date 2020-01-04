@@ -1,4 +1,3 @@
-
 {
   "name": "fcc-exercise-tracker",
   "version": "0.1.0",
@@ -8,9 +7,9 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
-    "mongoose": "^5.7.12",
-    "mongodb": "^3.3.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.4",
+    "mongodb": "^3.4.1",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "shortid": "^2.2.15"
